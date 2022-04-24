@@ -98,7 +98,7 @@
 
 body {
   position: relative;
-  background: url('background.jpg');
+  background: url('background.gif');
   min-height: 100vh;
   max-height: 100vh;
   display: grid;
